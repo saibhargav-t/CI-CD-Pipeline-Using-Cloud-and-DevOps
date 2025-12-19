@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIA52LW4STZEZOQI7IU"
-  secret_key = "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"
+  access_key = "AKIA52LW4STZEZOQI7IUnk"
+  secret_key = "kUSIND8/WFFPUypTmOz9DyLI5vr1PskXApWzOIGgpjk"
   region = "ap-south-1"
 }
 # Create a VPC and subnets
